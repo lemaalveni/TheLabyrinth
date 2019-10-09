@@ -11,7 +11,7 @@
         android:layout_marginBottom="428dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Name"
+        android:text="Login"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.482"
